@@ -1,15 +1,11 @@
 <template>
   <div id="search_container">
-    <input id="search_input" style="height: 45px; width: 500px" />
+    <input id="search_input" style="height: 45px; width: 100%" />
     <a href="#" style="color: #d74d02" uk-icon="icon: search"> </a>
   </div>
 </template>
 
 <script>
-/**
- * usage:
- * <search-form v-model="value" @click:append=""></search-form>
- */
 export default {};
 </script>
 

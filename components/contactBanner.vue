@@ -6,7 +6,7 @@
     style="background-color: rgba(236, 236, 236, 0.54)"
   >
     <h2>Background Image</h2>
-    <p class="uk-text-lead">
+    <p class="uk-text-lead uk-text-center">
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor.
     </p>

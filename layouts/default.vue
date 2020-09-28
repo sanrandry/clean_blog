@@ -1,7 +1,9 @@
 <template>
   <div class="">
     <navbar />
-    <Nuxt />
+    <div style="min-height: 90vh">
+      <Nuxt />
+    </div>
     <app-footer />
   </div>
 </template>
